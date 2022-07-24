@@ -1,0 +1,75 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+
+body{
+ background-color: rgb(107,137,237);  
+    
+    font-family:sans-serif; 
+}
+
+
+.container{
+    
+    height:360px ;
+    width: 600px;
+    background-color: ;
+    margin:100px auto;
+    box-shadow: 0 0 40px rgb(40,40,40);
+    border-radius: 10px 25px 10px 25px;
+    position: relative;
+    top: 50px;
+    
+}
+
+.card{
+    height: 360px;
+    width: 220px;
+   
+    position: absolute;
+    left: 30px;
+    top: -30px;
+    box-shadow: 0 0 40px rgb(40,40,40);
+    border-radius: 10px 25px 10px 25px;
+    overflow:hidden;
+    
+    
+}
+
+
+.pic{
+    
+    width: 100%;
+}
+
+.bio{
+   
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right:30px;
+    text-align: justify;
+    margin-top: 20px;
+    
+}
+.card p{
+    
+ padding-right: 15px; 
+    margin: 5px;
+    
+    
+}
+
+
+
+
+
+
+
